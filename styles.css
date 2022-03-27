@@ -9,6 +9,7 @@ main {
     display: flex;
     width: 700px;
     height: 800px;
+    
 
 }
 
@@ -22,12 +23,13 @@ main {
     border-style:ridge;
     margin-top: 20px;
     margin-left: 8px;
+
 }
 
 .maindoc {
     font-size: 20px;
     font-family:'Times New Roman', Times, serif;
-    color:beige
+    color:beige;
 }
 
 .logos {
@@ -41,17 +43,68 @@ main {
 }
 
 
+div {
+    width: 900px;
+    height: 780px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 50px;
+   
+
+}
+
+#div2 {
+    width: 1200px;
+    display: flex;
+    margin-left: 1px;
+   
+}
+
+
+#main2 {
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 99%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px;
+    border-color: rgb(149, 39, 252);
+    border-style:ridge;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color:beige;
+   
+}
 
 
 
+#main3 {
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px;
+    border-color: rgb(149, 39, 252);
+    border-style:ridge;
+    margin-left: 100px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color:beige;
+}
 
 
+.logos2 {
+    padding-top: 50px;
+    padding-left: 150px;
+    
+}
 
+.maindoc2 {
+    text-align: center;
+    padding: 20px;
+}
 
-
-
-
-
+.maindoc3 {
+    text-align: left;
+}
 
 
 h1 {
@@ -73,4 +126,3 @@ h1 {
     list-style-type: none;
     
 }
-
